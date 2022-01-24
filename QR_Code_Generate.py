@@ -2,6 +2,8 @@
 import pyqrcode
 import png
 from pyqrcode import QRCode
+
+# Name: Harsh Upadhyay
   
   
 # String which represents the QR code
